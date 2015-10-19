@@ -323,7 +323,7 @@ p a {
     color: $brand-neutral-bright;
     &:empty {
       &:before {
-        content: ' ';
+        content: '';
       }
     }
   }

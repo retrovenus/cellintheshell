@@ -2,10 +2,7 @@
   "name": "depthy",
   "version": "0.0.0",
   "dependencies": {},
-  "license": {
-    "type": "MIT",
-    "url": "https://github.com/panrafal/depthy/blob/master/LICENSE"
-  },
+  "license" : "SEE LICENSE IN LICENSE",
   "repository" : { 
     "type" : "git",
     "url" : "https://github.com/retrovenus/cellintheshell.git"
