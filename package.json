@@ -2,6 +2,14 @@
   "name": "depthy",
   "version": "0.0.0",
   "dependencies": {},
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/panrafal/depthy/blob/master/LICENSE"
+  },
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/retrovenus/cellintheshell.git"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-angular-templates": "~0.5.4",
